@@ -1,0 +1,20 @@
+chat:
+  enabled: true
+  vipOnly: false
+  cooldown: 5
+
+messages:
+  usage: "&4Błąd &cPoprawne użycie: &7/chat <reload|on|off|cooldown|vip|clear>"
+  reload: "&aKonfiguracja została przeładowana!"
+  no_permission: "&cNie masz uprawnień do używania tej komendy!"
+  chat_enabled: "&7Czat został &a&nwłączony&r &7przez &a&n%admin%"
+  chat_disabled_by_admin: "&7Czat został &c&nwyłączony&r &7przez &a&n%admin%"
+  chat_vip: "&7Czat został &a&nwłączony&r &7tylko dla rang PREMIUM przez &a&n%admin%"
+  chat_cleared: "&7Czat został &e&nwyczyszczony&r &7przez &a&n%admin%!"
+  usage_cooldown: "&4Błąd &cPoprawne użycie: &7/chat cooldown <czas>"
+  cooldown_set: "&aCooldown czatu ustawiony na %time% sekund!"
+  invalid_time_format: "&cNieprawidłowy format czasu!"
+  chat_disabled: "&cCzat jest obecnie wyłączony!"
+  chat_vip_only: "&cTylko rangi &a&nPREMIUM&r mogą teraz pisać na czacie!"
+  cooldown_wait: "&cMusisz poczekać %time% sekund!"
+  unknown_subcommand: "&cNieznana podkomenda!"
